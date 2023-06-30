@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sledgehamm3r/sicherheitsgurt">
+  <a href="https://github.com/sledgehamm3r/npc-aus">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,12 +15,12 @@
   <p align="center">
     Ein kleiner Script zum deaktivieren der NPCs
     <br />
-    <a href="https://github.com/sledgehamm3r/sicherheitsgurt"><strong>Dokumentation ansehen »</strong></a>
+    <a href="https://github.com/sledgehamm3r/npc-aus"><strong>Dokumentation ansehen »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sledgehamm3r/sicherheitsgurt/issues">Bug melden</a>
+    <a href="https://github.com/sledgehamm3r/npc-aus/issues">Bug melden</a>
     ·
-    <a href="https://github.com/sledgehamm3r/sicherheitsgurt/issues">Anfrage stellen</a>
+    <a href="https://github.com/sledgehamm3r/npc-aus/issues">Anfrage stellen</a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@ Dies ist ein Script für das ESX-Framwork. Demnach sollte dein Server auf der ne
 
 * Lade den neuesten Release herunter.
   ```sh
-  https://github.com/sledgehamm3r/sicherheitsgurt/releases
+  https://github.com/sledgehamm3r/npc-aus/releases
   ```
 
 ### Installation
@@ -89,11 +89,11 @@ Dies ist ein Script für das ESX-Framwork. Demnach sollte dein Server auf der ne
 _Sobald du den Script heruntergeladen hast kommen wir nun zu den weiteren Schritten._
 
 1. Extrahiere den .zip Ordner 
-2. Nenne den Ordner, falls notwendig, um. Er sollte ShameV-sicherheitsgurt heißen.
+2. Nenne den Ordner, falls notwendig, um. Er sollte ShameV-npc-aus heißen.
 3. Kopiere den Ordner in deinen Ressourcen Ordner.
 4. Füge deiner server.cfg folgendes hinzu:
    ```sh
-   start ShameV-sicherheitsgurt
+   start ShameV-npc-aus
    ```
 
 <p align="right">(<a href="#readme-top">Zurück nach Oben</a>)</p>
@@ -155,7 +155,7 @@ Veröffentlicht unter der MIT-Lizenz. Weitere Informationen findest du in der Da
 
 sledgehamm3r - [DISCORD @sledge_hamm3rr] - info@shamev.de
 
-Project Link: [https://github.com/sledgehamm3r/sicherheitsgurt](https://github.com/sledgehamm3r/sicherheitsgurt)
+Project Link: [https://github.com/sledgehamm3r/npc-aus](https://github.com/sledgehamm3r/npc-aus)
 
 <p align="right">(<a href="#readme-top">Zurück nach Oben</a>)</p>
 
